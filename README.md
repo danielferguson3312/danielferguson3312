@@ -1,8 +1,9 @@
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<!-- <img src="koi/koi.gif" width="256" alt="My koi" /> -->
 <table>
 <tr>
 <td valign="top">
-<sub><sub><sub><sub><sub><pre>
+<img src="koi/koi.gif" width="256" alt="My koi" />
+<!-- <sub><sub><sub><sub><sub><pre>
  . .:..... .. .. ..        . .     .        ...    .             .            .       .                          .
 .. . :   ...   ...     ..   ..   .     .             .   . .
 .. :.:.: ...   ..    ...    .    .       .  .          ..  .   .    .   . . .                .
@@ -59,7 +60,7 @@
 %%######@%%%%%#%#%@%%%%%%@%#######**%#%%#%%%##%@@@@@@@@@@@@@@@@%%%%%%@@@@@@###%%@@@@@@@@@@@@%%%@@@@@%##%%%%%%###%%@
 %%%%%#%%@%%%%%@@%%@@@@@@@@@@##%%###%######%####%@@@@@@@@@@@@@%%%%@%@@@@@@@@###%%@@@%#%@@@@@@@@@@@@@%%%%%%%%%%####@@
 %%%#%%@@@@@@@@@@@@%@%%#%@@@@%####%%#***#*#****#%%@@@@@@@@@@@@#####%%#%#%###%%%%%@@@%#*%%@@@@@@@@@@@@##%%@%%%%%%##%@
-</pre></sub></sub></sub></sub></sub>
+</pre></sub></sub></sub></sub></sub> -->
 </td>
 <td valign="top">
 <H2> <a href="https://github.com/danielferguson3312"> <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=538&text=Hello!%20I'm%20Dan" alt="Hello! I&#39;m Dan" /></H2>
